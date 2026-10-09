@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747620354034",
+    "project_id": "lipatapp-21d66",
+    "storage_bucket": "lipatapp-21d66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747620354034:android:50413f9b18d1b1c378cd6b",
+        "android_client_info": {
+          "package_name": "com.example.lipat4ppv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747620354034-u08ns1b4qaokdqhrpu7bo2598nso3op3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lipat4ppv1",
+            "certificate_hash": "b03274f469a3ff72c9d73ecdc2880c4a890a5cae"
+          }
+        },
+        {
+          "client_id": "747620354034-9hrv8ril4702pqgof3bi5fl47v7k4m7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATowgmwVTsdKu6p8GYjalj5egfF7OSfXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747620354034-9hrv8ril4702pqgof3bi5fl47v7k4m7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
